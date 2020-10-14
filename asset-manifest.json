@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./zboardpublic/static/css/main.5c07f2bf.chunk.css",
-    "main.js": "./zboardpublic/static/js/main.aa6f4fd2.chunk.js",
-    "runtime-main.js": "./zboardpublic/static/js/runtime-main.12258a92.js",
-    "static/js/2.759164f7.chunk.js": "./zboardpublic/static/js/2.759164f7.chunk.js",
-    "index.html": "./zboardpublic/index.html",
-    "precache-manifest.4dc34f3f748c0c83ed0519187257bcd0.js": "./zboardpublic/precache-manifest.4dc34f3f748c0c83ed0519187257bcd0.js",
-    "service-worker.js": "./zboardpublic/service-worker.js",
-    "static/js/2.759164f7.chunk.js.LICENSE.txt": "./zboardpublic/static/js/2.759164f7.chunk.js.LICENSE.txt",
-    "static/media/app.css": "./zboardpublic/static/media/Jura-Medium.ef9b2eff.ttf",
-    "static/media/viewer.ebbbf014.svg": "./zboardpublic/static/media/viewer.ebbbf014.svg"
+    "main.css": "./static/css/main.5c07f2bf.chunk.css",
+    "main.js": "./static/js/main.893f3694.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.6294823c.js",
+    "static/js/2.759164f7.chunk.js": "./static/js/2.759164f7.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.ac762fd6c0cd18c90ea74f7e1e5cfc84.js": "./precache-manifest.ac762fd6c0cd18c90ea74f7e1e5cfc84.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.759164f7.chunk.js.LICENSE.txt": "./static/js/2.759164f7.chunk.js.LICENSE.txt",
+    "static/media/app.css": "./static/media/Jura-Medium.ef9b2eff.ttf",
+    "static/media/viewer.ebbbf014.svg": "./static/media/viewer.ebbbf014.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12258a92.js",
+    "static/js/runtime-main.6294823c.js",
     "static/js/2.759164f7.chunk.js",
     "static/css/main.5c07f2bf.chunk.css",
-    "static/js/main.aa6f4fd2.chunk.js"
+    "static/js/main.893f3694.chunk.js"
   ]
 }
